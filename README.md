@@ -82,8 +82,8 @@
 
 ## 🌊 IoT Project: Smart Water Tank Monitoring  
 
-Real-time water level and ETA tracking using ESP8266 + Ultrasonic sensors, integrated with ThingSpeak & Alexa.  
+Real-time water tank monitoring using ESP8266 + Ultrasonic sensors, with live data on ThingSpeak.  
 
-![Water Tank Level](https://thingspeak.mathworks.com/channels/2902155/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line)  
+![Tank Percentage](https://thingspeak.mathworks.com/channels/2902155/charts/1.png?bgcolor=%23ffffff&color=%2300aaff&dynamic=true&results=60&type=line&yaxismin=0&yaxismax=100)  
 
 [🔗 View Full Dashboard](https://thingspeak.mathworks.com/channels/2902155)
