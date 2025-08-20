@@ -39,11 +39,13 @@
 
 ## 🏆 Certifications  
 
-- ✅ Microsoft Certified: **Azure Fundamentals**  
-- ✅ Microsoft Certified: **Azure Data Fundamentals**  
+<a href="https://www.credly.com/earner/earned/badge/98413ec3-d2ef-48cd-8687-bdd7563bf667" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="120"/>
+</a>
 
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)  
-![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-Data%20Fundamentals-0089D6?logo=microsoftazure&logoColor=white)
+<a href="https://www.credly.com/earner/earned/badge/18eb10c2-e529-4762-9055-d85b4936822b" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="120"/>
+</a>
 
 ---
 
