@@ -86,4 +86,4 @@ Real-time water tank monitoring using ESP8266 + Ultrasonic sensors, with live da
 
 [🔗 View Full Dashboard](https://thingspeak.mathworks.com/channels/2902155)
 
-<a href="resume.pdf">📄 Download My Resume (PDF)</a>
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/itsranjith/resume/raw/main/resume.pdf)
