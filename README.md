@@ -84,6 +84,6 @@
 
 Real-time water tank monitoring using ESP8266 + Ultrasonic sensors, with live data on ThingSpeak.  
 
-![Tank Percentage](https://thingspeak.mathworks.com/channels/2902155/charts/1.png?bgcolor=%23ffffff&color=%2300aaff&dynamic=true&results=60&type=line&yaxismin=0&yaxismax=100)  
-
 [🔗 View Full Dashboard](https://thingspeak.mathworks.com/channels/2902155)
+
+<a href="resume.pdf">📄 Download My Resume (PDF)</a>
