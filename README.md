@@ -38,6 +38,7 @@
 ---
 
 ## 🏆 Certifications  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98413ec3-d2ef-48cd-8687-bdd7563bf667" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <a href="https://www.credly.com/badges/98413ec3-d2ef-48cd-8687-bdd7563bf667/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="120"/>
